@@ -152,14 +152,6 @@
             "type": "image",
             "data":"http://www.plantuml.com/plantuml/png/fLAnhjem59tnLrYPsW6r7r1L966DbAspbRWG4HBa67K0f0ALMebENJfswD0LjQK4AE_zWlr7xpWE3pEywGabN9zppxdd9kbLaWav7UUa6cN5X0asfYoHfQ0pqWbOCXg8SbgaOPa3UZVC92STNuZoWqM272reB4NAXGij7BzfnHDMyMSxvlozfBAa8XiC9KqpmHEPbGMnUUFNb5NKKx_KJftKdVgD_wFNab5B_W3nLw_LIN-zKF6L0QhsZNIhLv0xNL7RfJ-2_uFxLlt7xwmtwa1HEBPaWhXimAaVnrTLtOJw1zSpwXrLzpZMUgcEQek3NcDYxSt8vM7vLleTWp0EtlkcKty2S50dAq8OlTIh9ixPL2Qwz-WHM8-V3OCEivfrMK7usJmWQZbCmFqLt6kJJtznRK9dTmJ6icOanN6dzdPheyRbYFfMz4rltFnFY6BQxT8N_ak2ovHHYmH0WXia11BU87qW_HPP47m5R-QeOn81ch_5coSzNgJumXy0" 
         },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "ФАйл",
-                    "link": "https://github.com/S-Arkhipov/StudentPage/blob/master/dia1.txt"
-                }
-                ]
-        }
+        
     ]
 }
