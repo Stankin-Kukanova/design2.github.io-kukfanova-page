@@ -5,7 +5,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Разработка диаграммы",
+                    "text": "1. Идентификатор прецедента",
                     "class": "md-title"
                 }
             ]
@@ -14,11 +14,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма создана с помощью "
-                },
-                {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
+                    "text": "ВКР"
                 }
             ]
         },
@@ -26,19 +22,77 @@
             "type": "text",
             "data": [
                 {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
+                    "text": "2. Название прецедента",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Разметка личной страницы, разработка UML Use Case"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "3. Контекст",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Дисциплина Проектирование информационных систем"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "4. Участники (actors) и цели (goals)",
+                    "class": "md-title"
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/use-case-diagram.png"
+            "data": "https://github.com/S-Arkhipov/StudentPage/blob/master/%D1%82%D0%B0%D0%B1%D0%BB.JPG?raw=true"
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Постусловия",
+                    "text": "5. Предусловия (pre-conditions)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{
+                    "text": "освоена работа с личным репозиторием и основными CASE-инструментами"
+                }],
+                [{
+                    "text": "освоены основные приемы преобразования диаграмм IDEF0 в UML USE Case"
+                }],
+                [{
+                    "text": "сформированы примеры концептуальных отношений и выбран прецедент для описания"
+                }]
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "6. Постусловия (post-conditions)",
                     "class": "md-title"
                 }
             ]
@@ -56,6 +110,56 @@
                     "text": "ссылка на личную страницу записана в списке группы"
                 }]
             ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "7. Основной поток (main flow)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Дисциплина Проектирование информационных систем"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "8. Исключения (exceptions)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{
+                    "text": "Проблема в корректности имен репозиториев (Неправильно написана одна(!) буква, долго ищем, почему не хочет работать сайт)"
+                }],
+                [{
+                    "text": "Несогласованные по смыслу/содержанию/наполнению UML CASE"
+                }]
+            ]
+        },
+        {
+            "type": "image",
+            "data":"http://www.plantuml.com/plantuml/png/fLAnhjem59tnLrYPsW6r7r1L966DbAspbRWG4HBa67K0f0ALMebENJfswD0LjQK4AE_zWlr7xpWE3pEywGabN9zppxdd9kbLaWav7UUa6cN5X0asfYoHfQ0pqWbOCXg8SbgaOPa3UZVC92STNuZoWqM272reB4NAXGij7BzfnHDMyMSxvlozfBAa8XiC9KqpmHEPbGMnUUFNb5NKKx_KJftKdVgD_wFNab5B_W3nLw_LIN-zKF6L0QhsZNIhLv0xNL7RfJ-2_uFxLlt7xwmtwa1HEBPaWhXimAaVnrTLtOJw1zSpwXrLzpZMUgcEQek3NcDYxSt8vM7vLleTWp0EtlkcKty2S50dAq8OlTIh9ixPL2Qwz-WHM8-V3OCEivfrMK7usJmWQZbCmFqLt6kJJtznRK9dTmJ6icOanN6dzdPheyRbYFfMz4rltFnFY6BQxT8N_ak2ovHHYmH0WXia11BU87qW_HPP47m5R-QeOn81ch_5coSzNgJumXy0" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ФАйл",
+                    "link": "https://github.com/S-Arkhipov/StudentPage/blob/master/dia1.txt"
+                }
+                ]
         }
     ]
 }
