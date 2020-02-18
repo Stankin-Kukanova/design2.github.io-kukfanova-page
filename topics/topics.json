@@ -1,14 +1,44 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
+        "title": "Лаботраторная работа №1",
+        "description": "Разметка личной страницы",
         "preview": "img/use-case-diagram.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
+        "title": "Лаботраторная работа №2",
+        "description": "Разметка личной страниц",
+        "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 3,
+        "title": "Лаботраторная работа №3",
+        "description": "Разметка личной страниц",
+        "preview": "img/class-diagram.png"
+    },
+        {
+        "id": 4,
+        "title": "Лаботраторная работа №4",
+        "description": "Разметка личной страниц",
+        "preview": "img/class-diagram.png"
+    },
+        {
+        "id": 5,
+        "title": "Лаботраторная работа №5",
+        "description": "Разметка личной страниц",
+        "preview": "img/class-diagram.png"
+    },
+        {
+        "id": 6,
+        "title": "Лаботраторная работа №6",
+        "description": "Разметка личной страниц",
+        "preview": "img/class-diagram.png"
+    },
+        {
+        "id": 7,
+        "title": "Лаботраторная работа №7",
+        "description": "Разметка личной страниц",
         "preview": "img/class-diagram.png"
     }
 ]
