@@ -1,1 +1,35 @@
 
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+left to right direction
+actor P0 as "Человек"
+actor M0 as "Система"
+actor P as "Сотрудник"
+actor M as "1С:Предприятие"
+
+package APP as "Формирование неоходимой отчетности"{
+usecase A as "Определение необходимой отчетности"
+usecase B as "Назначение ответсвенного"
+usecase C as "Подготовка данных"
+usecase D as "Формирование отчета"
+P -- (A)
+(A) -- M
+P -- (B)
+(B) -- M
+P -- (C)
+(C) -- M
+P -- (D)
+(D) -- M
+}
+P0 <|-- P
+M --|> M0
+@enduml
