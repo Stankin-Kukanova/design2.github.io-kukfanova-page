@@ -63,7 +63,7 @@
         },
         {
             "type": "image",
-            "data": "https://github.com/Stankin-Kukanova/design2.github.io-kukfanova-page/blob/master/img/Участники%20и%20цели.PNG"
+            "data": "https://github.com/Stankin-Kukanova/design2.github.io-kukfanova-page/blob/master/img/Участники%20и%20цели.PNG?raw = true"
         },
         {
             "type": "text",
@@ -129,7 +129,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "8. Исключения (exceptions)",
+                    "text": "8. UML-диаграмма",
                     "class": "md-title"
                 }
             ]
