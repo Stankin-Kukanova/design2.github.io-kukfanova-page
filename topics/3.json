@@ -41,11 +41,24 @@
                 }
             ]
         },
+	     {
+            "type": "text",
+            "data": [
+                {
+                    "text": "План-график для проекта представлен на рисунке",
+                    "class": "md-title"
+                }
+            ]
+        },
+               {
+            "type": "image",
+            "data": "https://github.com/Stankin-Kukanova/design2.github.io-kukfanova-page/blob/master/img/План-график.PNG?raw=true"
+        },
 	 {
             "type": "text",
             "data": [
                 {
-                    "text": "Здесь представлено готовое "
+                    "text": "Здесь представлено готовый "
                 },
                 {
                     "text": "Акт сдачи-приемки",
